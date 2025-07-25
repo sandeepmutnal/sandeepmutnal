@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Sandeep Mutnal  <br>🎓 Student | Web Developer | AI & ML Enthusiast  <br><br>## 🚀 About Me  <br>- 💻 Building *Websites on Google Sites & Full-Stack Web Development*  <br>- 🤖 Passionate about *AI & Machine Learning Projects*
+# 👋 Hi, I'm Sandeep Mutnal  <br>🎓 Student | Web Developer | AI & ML Enthusiast  <br><br>## 🚀 About Me  <br>- 💻 Building *Full-Stack Web Development*  <br>- 🤖 Passionate about *AI & Machine Learning Projects*
 
 
 ## 🌐 Socials:
