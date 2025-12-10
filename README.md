@@ -1,12 +1,85 @@
-# 💫 About Me:
-# 👋 Hi, I'm Sandeep Mutnal  <br>🎓 Student | Web Developer | AI & ML Enthusiast  <br><br>## 🚀 About Me  <br>- 💻 Building *Full-Stack Web Development*  <br>- 🤖 Passionate about *AI & Machine Learning Projects*
+<h1 align="center">👋 Hi, I'm Sandeep</h1>
+<h3 align="center">AI Engineer • Full Stack Developer • Cloud & System Design</h3>
+
+---
+
+## 🚀 About Me
+
+I am a **Full Stack Developer and AI Engineer** with hands-on experience in **web development, AI/ML, and cloud technologies**.  
+I build **scalable applications, AI solutions, and robust systems** to solve real-world problems.  
+
+---
+
+## 💼 Experience
+
+### **Unified Mentor Pvt. Ltd** — Fullstack Web Development Intern  
+*April 2025*  
+- Worked on web development projects using **PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap**.  
+- Gained hands-on experience in **CRUD operations, user authentication, and responsive design**.  
+- Collaborated with mentors and peers to understand **software development workflow**.  
+
+### **Internship Studio** — Artificial Intelligence Intern  
+*February 2025*  
+- Completed **Python-based AI/ML projects** with practical applications.  
+- Gained exposure to **problem-solving, data handling, and algorithm implementation**.  
+
+### **JPMorgan CHASE&Go** — Software Engineering Job Simulation  
+*March 2025 – July 2025*  
+- Worked on **project setup, Kafka integration, H2 integration, and REST API development**.  
+- Implemented **REST API controllers and integration** with practical software engineering workflow.  
+
+---
+
+## 🧠 Skills & Technologies
+
+### ⚡ Programming Languages  
+- Python  
+- PHP  
+- JavaScript  
+- TypeScript  
+- SQL  
+- Bash  
+
+### 🌐 Web Development  
+- HTML, CSS, Bootstrap, Tailwind CSS  
+- JavaScript, React.js  
+- Node.js, FastAPI  
+- REST APIs  
+
+### 🗄️ Databases  
+- MySQL, MongoDB, H2  
+
+### 🤖 Machine Learning & AI  
+- Numpy, Pandas, Matplotlib  
+- Scikit-Learn  
+- Regression, Classification, Clustering  
+- Neural Networks (CNN, RNN, LSTM)  
+- NLP (Tokenization, Embeddings, Transformers)  
+- GenAI (OpenAI API, Agents, RAG Applications)  
+
+### ☁️ Cloud & DevOps  
+- AWS (EC2, S3, Lambda, RDS)  
+- Docker, Kubernetes (Basics)  
+- Linux, Git & GitHub, CI/CD  
+
+### 🧩 Computer Science & Problem Solving  
+- Data Structures & Algorithms  
+- OOP (Object-Oriented Programming)  
+- System Design (Caching, Load Balancing, Microservices, Scalability)
+
+---
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sandeep_mutnal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sandeep Mutnal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SandeepMutnal99) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandeepmutnal242@gmail.com) 
+### 📚 **DSA Solutions**
+LeetCode + Data Structures solutions in Python.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+---
+
+## 🔗 Connect With Me
+
+ 🔗 LinkedIn: * https://linkedin.com/in/sandeep-mutnal-001a90223*  
+  
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+If you like my projects, consider giving a ⭐ to my repos!
