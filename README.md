@@ -5,8 +5,8 @@
 
 ## 🚀 About Me
 
-I am a **Full Stack Developer and AI Engineer** with hands-on experience in **web development, AI/ML, and cloud technologies**.  
-I build **scalable applications, AI solutions, and robust systems** to solve real-world problems.  
+AI/ML Engineer and Full-Stack Developer with hands-on experience in building
+machine learning models and scalable web applications.
 
 ---
 
@@ -33,8 +33,7 @@ I build **scalable applications, AI solutions, and robust systems** to solve rea
 ## 🧠 Skills & Technologies
 
 ### ⚡ Programming Languages  
-- Python  
-- PHP  
+- Python    
 - JavaScript  
 - TypeScript  
 - SQL  
